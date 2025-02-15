@@ -1,3 +1,4 @@
+# test2
 # creat conflict for the same files in the origin and local       
 # Test 
 ---
@@ -9,3 +10,4 @@ The file is about learning git. <br>
 git add .   
 ```
 #test 
+#xyz
